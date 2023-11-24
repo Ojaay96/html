@@ -1,0 +1,25 @@
+.nav-container{
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 0 2px 2px ;
+    padding: 10px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+ul{
+    margin-left: 50px;
+}
+
+li {
+    display: inline;
+} 
+
+.media{
+    margin: 10px;
+}
+
+form{
+    margin: 5px;
+}
